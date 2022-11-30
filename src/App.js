@@ -2,6 +2,9 @@ import React, { useEffect, useState } from 'react'
 import './App.css';
 import Recipe from './Recipe';
 
+
+// route: -https://stackblitz.com/edit/reactjs-app-router?file=index.js
+
 const App = () => {
 const APP_ID = "ce5355a0";
 const APP_KEY = "cba4a8813906dacf58774057f56eb88e";
